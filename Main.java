@@ -179,7 +179,7 @@ class Trapezoid extends Quadilateral{
   private float side4;
   private float side5;
 
-  public Trapezoid (float a, float b, float c, float d float e){
+  public Trapezoid (float a, float b, float c, float d, float e){
     side1 = a;
     side2 = b;
     side3 = c;
